@@ -9,6 +9,7 @@ for car in cars:
 # list comprehension
 [print(car) for car in cars]
 
+
 # Task 2: Converting lower case car names into uppercase
 
 new_cars = []
@@ -45,7 +46,9 @@ print(bits)
 print(new_bits)
 print(super_bits)
 
-# Task 4: Sring Manipulation: Customize a messy string to make it readable
+
+# Task 4: Sring Manipulation: Customize a messy string to make it readable 
+    #eg:"ProgrammingIsFunAndExciting" =>  "Programming Is Fun And Exciting" 
 
 my_string = "ProgrammingIsFunAndExciting"
 new_string = ""
@@ -64,11 +67,13 @@ customized_string = "".join([char if char.islower() else " " + char  for char in
 
 print(customized_string)
 
+
 # Task 5: Use Nested For-Loops to Handle Nested Iterables
 
 genius = ['Albert', 'Newton', 'Faraday', 'Steve', 'Max']
 letters = []
 
+# loop and append
 for name in genius:
     for char in name:
         letters.append(char)
