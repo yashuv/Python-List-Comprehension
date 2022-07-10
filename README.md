@@ -9,10 +9,10 @@ Every list comprehension should follow the template as following:
 It’s very clean and straightforward. Just uses two square brackets including three key components:
 <br>
 <ul>
-<li>A for-loop to iterate an iterable</li>
-<li>An expression to deal with the item</li>
-<li>An optional if condition</li>
+<li>A <i>for-loop</i> to iterate an iterable</li>
+<li>An <i>expression</i> to deal with the item</li>
+<li>An optional <code>if</code> condition</li>
 </ul>
 Code in this repo: <a href="https://github.com/yashuv/Python-List-Comprehension/blob/main/list_comprehension.py">List Comprehension</a>
 <br><br>
-<p>Thanks you! HappY Coding...<p>
+<p>Thank you! HappY Coding...<p>
