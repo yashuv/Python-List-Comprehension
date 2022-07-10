@@ -14,5 +14,5 @@ It’s very clean and straightforward. Just uses two square brackets including t
 <li>An optional if condition</li>
 </ul>
 Code in this repo: <a href="https://github.com/yashuv/Python-List-Comprehension/blob/main/list_comprehension.py">List Comprehension</a>
-<br>
+<br><br>
 <p>Thanks you! HappY Coding...<p>
